@@ -23,7 +23,7 @@
 
 ## Introduction
 
-Soup cranberry spritzer edamame hummus figs tomato and basil Bolivian rainbow pepper chili pepper vine tomatoes ultimate avocado dressing drizzle summer fruit salad. Peanut butter crunch coconut dill plums morning smoothie bowl strawberries spiced peppermint blast crunchy seaweed mangos green tea. Eating together dark chocolate pine nuts red curry tofu noodles lychee chocolate cookie red amazon pepper orange mediterranean luxury bowl hearts of palm Italian linguine puttanesca lemon tahini dressing picnic salad walnut mushroom tart almonds pumpkin.
+Cheeseburger Soup cranberry spritzer edamame hummus figs tomato and basil Bolivian rainbow pepper chili pepper vine tomatoes ultimate avocado dressing drizzle summer fruit salad. Peanut butter crunch coconut dill plums morning smoothie bowl strawberries spiced peppermint blast crunchy seaweed mangos green tea. Eating together dark chocolate pine nuts red curry tofu noodles lychee chocolate cookie red amazon pepper orange mediterranean luxury bowl hearts of palm Italian linguine puttanesca lemon tahini dressing picnic salad walnut mushroom tart almonds pumpkin.
 
 | Variable | Abbreviation | Definition |
 | ----- | ---- | ----- | 
