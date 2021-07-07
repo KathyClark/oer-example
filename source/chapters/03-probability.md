@@ -26,7 +26,7 @@ Probabilities can also be thought of in terms of **relative frequencies**. If we
 
 If it has rained in Seattle on 62% of the last 100,000 days, then the probability of it raining tomorrow might be taken to be 0.62. This is a natural idea but nonetheless unreasonable if we have further information relevant to whether it will rain tomorrow. For example, if tomorrow is August 1, a day of the year on which it seldom rains in Seattle, we should only consider the percentage of the time it rained on August 1. But even this is not enough since the probability of rain on the next August 1 depends on the humidity. (The chances are higher in the presence of high humidity.) So, we should consult only the prior occurrences of August 1 that had the same humidity as the next occurrence of August 1. Of course, wind direction also affects probability \... You can see that our sample of prior cases will soon be reduced to the empty set. Anyway, past meteorological history is misleading if the climate is changing.
 
-### Review Questions
+### Review Questions:
 
 **Select all that apply. Probability can be thought of as:**
 
